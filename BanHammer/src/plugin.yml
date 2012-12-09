@@ -1,0 +1,12 @@
+name: BanHammer
+main: cc.co.smurfdown.banhammer.banHammer
+version: 0.8.0
+author: Ace_007
+description: Powerful Smite of the BanHammer!
+commands:
+  banhammer:
+    description: BanHammer access command.
+  bh:
+    description: BanHammer access command.
+  smite:
+    description: BanHammer smite.
